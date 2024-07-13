@@ -2,12 +2,12 @@ import { initializeApp, getApps, getApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCeebSVmTPoiYZ_yyEtvVNzZiOTPK02RXA",
-  authDomain: "stockit-ai-auth.firebaseapp.com",
-  projectId: "stockit-ai-auth",
-  storageBucket: "stockit-ai-auth.appspot.com",
-  messagingSenderId: "1037554339952",
-  appId: "1:1037554339952:web:bed0c908602305e16c64b5",
+  apiKey: "AIzaSyB1YGDIhQJAeIgdzoDTTC158rjvuoLXG8U",
+  authDomain: "stockit-algabay.firebaseapp.com",
+  projectId: "stockit-algabay",
+  storageBucket: "stockit-algabay.appspot.com",
+  messagingSenderId: "433008167047",
+  appId: "1:433008167047:web:9ff0b2706c29f41c831022",
 };
 
 const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
