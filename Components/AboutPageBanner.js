@@ -13,29 +13,29 @@ const AboutPageBanner = () => {
             </span>{" "}
             <br />
             <br />
-            At stockit, we revolutionize equity research with Language Models,
+            At algabay, we revolutionize equity research with Language Models,
             offering unparalleled access to non-financial data. Democratizing
             financial insights, we empower everyone with comprehensive market
             knowledge, fostering informed decisions and a more inclusive
             financial landscape.
             <br />
-            <br />@ Follow stockit&ensp;
+            <br />@ Follow algabay&ensp;
             <a
-              href="https://twitter.com/stockitofficial"
+              href="https://twitter.com/algabayofficial"
               className="underline "
             >
               Twitter
             </a>
-            <br />@ Follow stockit&ensp;
+            <br />@ Follow algabay&ensp;
             <a
-              href="https://www.linkedin.com/company/stockit"
+              href="https://www.linkedin.com/company/algabay"
               className="underline "
             >
               Linkedin
             </a>
-            <br />@ Follow stockit&ensp;
+            <br />@ Follow algabay&ensp;
             <a
-              href="https://www.instagram.com/stockitofficial/"
+              href="https://www.instagram.com/algabayofficial/"
               className="underline "
             >
               Instagram
@@ -89,7 +89,7 @@ const AboutPageBanner = () => {
               <br />
               <br />
               Sai Sharan, our co-founder and CFO, is the financial backbone of
-              stockit. With over 5 years of hands-on experience as a financial
+              algabay. With over 5 years of hands-on experience as a financial
               trader, Sai brings a unique perspective to our team. He has
               successfully navigated the intricacies of stock trading, forex
               trading, and cryptocurrency markets, making him a valuable asset
@@ -115,11 +115,11 @@ const AboutPageBanner = () => {
               <span className="underline">Co-founder & CTO →</span>
               <br />
               <br />
-              As the CTO and Co-Founder of stockit AI, Adarsh brings his deep
+              As the CTO and Co-Founder of algabay AI, Adarsh brings his deep
               expertise in machine learning and AI to the company, with over 4
               years of experience in ML, ethical hacking, applied AI, and
               research. He is an active open source contributor and has worked
-              in several startups before joining stockit.
+              in several startups before joining algabay.
               <br />
               <br />@ Follow&ensp;
               <a href="https://twitter.com/adarshxs" className="underline ">

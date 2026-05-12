@@ -3,9 +3,9 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "AIzaSyB1YGDIhQJAeIgdzoDTTC158rjvuoLXG8U",
-  authDomain: "stockit-algabay.firebaseapp.com",
-  projectId: "stockit-algabay",
-  storageBucket: "stockit-algabay.appspot.com",
+  authDomain: "algabay-algabay.firebaseapp.com",
+  projectId: "algabay-algabay",
+  storageBucket: "algabay-algabay.appspot.com",
   messagingSenderId: "433008167047",
   appId: "1:433008167047:web:9ff0b2706c29f41c831022",
 };

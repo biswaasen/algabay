@@ -7,8 +7,8 @@ import Footer from "@/Components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "stockit AI | Finance and Equity Research Platform",
-  description: "Simplified Investment With stockit",
+  title: "algabay AI | Finance and Equity Research Platform",
+  description: "Simplified Investment With algabay",
   icons: {
     icon: [
       {

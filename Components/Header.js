@@ -100,7 +100,7 @@ const Header = () => {
           href="/Home"
           className="text-2xl font-mono font-semibold text-blue-600"
         >
-          StockIt
+          algabay
         </Link>
 
         <div className="flex gap-8 max-sm:gap-2 items-center mx-5 max-sm:mx-0">
